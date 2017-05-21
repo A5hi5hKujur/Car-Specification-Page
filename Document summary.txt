@@ -1,0 +1,8 @@
+Assignment by Ashish Kujur
+
+List of Documents:
+1. index.html 		:		Contains html code for the webpage.
+2. index.css		:		Contains all the styling for the webpage.
+3. jquery-3.1.0.js	:		jQuery plugin.
+4. jquery-3.1.0.min.js	:		jQuery plugin.
+5. trucar.png		:		Webpage design before implimentation.
